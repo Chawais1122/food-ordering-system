@@ -1,0 +1,7 @@
+node_modules/
+dist/
+coverage/
+.env
+*.tsbuildinfo
+coverage-e2e/
+dump.rdb
